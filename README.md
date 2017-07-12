@@ -1,1 +1,1 @@
-Will store guitar tabs that I have created.
+Guitar tabs that I have created.
